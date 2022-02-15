@@ -25,7 +25,5 @@ minima:
       - username: kappanneo
       - instance: gitlab.com
 
-feed: https://kappanneo.github.io/feed.xml
-
 # plugins:
 #   - jekyll-feed
