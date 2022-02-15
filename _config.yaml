@@ -5,7 +5,7 @@ author:
 description: > 
   a website i said i would never make
 
-header_pages:
+edit: https://github.com/kappanneo/template/edit/master/README.md 
 
 show_excerpts: false
 
@@ -25,5 +25,7 @@ minima:
       - username: kappanneo
       - instance: gitlab.com
 
-plugins:
-  - jekyll-feed
+feed: https://kappanneo.github.io/feed.xml
+
+# plugins:
+#   - jekyll-feed
